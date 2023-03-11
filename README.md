@@ -1,2 +1,2 @@
-# Err0rC0rrupt.github.io
+# errorcorrupt.github.io
 My Website!
